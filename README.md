@@ -1,6 +1,8 @@
 # TeleGet
 Dedicated Telegram Client for crawling and storing channels' messages.
 
+This project uses [TLSharp](https://github.com/sochix/TLSharp) as an interface for Telegram API.
+
 ## Get Started
 This project uses MongoDB as storage. Please make sure mongod is running at `localhost:27017`.
 
