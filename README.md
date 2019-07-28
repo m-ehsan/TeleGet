@@ -6,7 +6,7 @@ This project uses [TLSharp](https://github.com/sochix/TLSharp) as an interface f
 ## Get Started
 This project uses MongoDB as storage. Please make sure mongod is running at `localhost:27017`.
 
-Get your Telegram API ID and API hash from https://my.telegram.org.
+Get your Telegram API ID and API hash from https://my.telegram.org and add them into `TLInterface.cs` file.
 
 Use `addsession` command and other commands below to get started.
 
