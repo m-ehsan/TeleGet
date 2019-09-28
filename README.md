@@ -49,7 +49,7 @@ View application log including number of messages that are being saved into data
 View pending jobs.
 
 #### stats
-View a brieft statistics on stored messages.
+View a brief statistics on stored messages.
 
 ## To-Do
 - Complete interface commands
